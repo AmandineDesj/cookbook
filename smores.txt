@@ -3,7 +3,6 @@ apprendre git
 blablabla ...
 quit
 
-q
-:wq
+
 
 
